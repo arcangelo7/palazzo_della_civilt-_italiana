@@ -1,0 +1,71 @@
+{
+    "title": {
+        "media": {
+            "url": "assets/images/free-photo-of-facade-of-the-palazzo-della-civilta-italiana-in-rome-italy.webp",
+            "caption": "Facade of the Palazzo della Civilta Italiana in Rome, Italy",
+            "credit": "Photo by Ivan Dražić from <a href='https://www.pexels.com/photo/facade-of-the-palazzo-della-civilta-italiana-in-rome-italy-19368934/'>Pexels</a>"
+        },
+        "text": {
+            "headline": "Palazzo della Civiltà Italiana: A Contested Heritage",
+            "text": "<p>Exploring the contested cultural heritage of the Palazzo della Civiltà Italiana in Rome, from its origins in the Fascist era to its modern-day recontextualization</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "",
+                "caption": "The construction of the Palazzo della Civiltà Italiana",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "1938"
+            },
+            "text": {
+                "headline": "Construction and Fascist Intentions",
+                "text": "<p>Initiated as a symbol of Fascist ideology, the Palazzo della Civiltà Italiana was designed to showcase the power and modernity of Mussolini's Italy</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Post-WWII view of the Palazzo",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "1945"
+            },
+            "text": {
+                "headline": "Post-War Controversy",
+                "text": "<p>After the fall of the Fascist regime, the Palazzo's significance was questioned, embodying a complex legacy of architectural beauty and ideological burden</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Fendi's acquisition of the Palazzo",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2015"
+            },
+            "text": {
+                "headline": "Modern Reappropriation by Fendi",
+                "text": "<p>The luxury fashion brand Fendi moves its headquarters to the Palazzo, sparking debate over the commercial use of historically charged architecture</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Public debate and discussions",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2023"
+            },
+            "text": {
+                "headline": "Contemporary Perspectives",
+                "text": "<p>Current views on the Palazzo illustrate a spectrum of interpretations, from those who see it as a monument to be preserved to others who view it as a symbol of oppression to be critically re-evaluated</p>"
+            }
+        }
+    ]
+}
