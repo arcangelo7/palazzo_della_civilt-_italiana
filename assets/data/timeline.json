@@ -7,65 +7,165 @@
         },
         "text": {
             "headline": "Palazzo della Civiltà Italiana: A Contested Heritage",
-            "text": "<p>Exploring the contested cultural heritage of the Palazzo della Civiltà Italiana in Rome, from its origins in the Fascist era to its modern-day recontextualization</p>"
+            "text": "<p>Exploring the contested cultural heritage of the Palazzo della Civiltà Italiana in Rome, from its origins in the Fascist era to its modern-day recontextualization as a fashion headquarters and its role in public debates on fascism's legacy in Italy</p>"
         }
     },
     "events": [
         {
             "media": {
-                "url": "",
-                "caption": "The construction of the Palazzo della Civiltà Italiana",
-                "credit": ""
+                "url": "assets/video/Italia.mp4",
+                "caption": "Mussolini's speech announcing the invasion of Ethiopia, 1935",
+                "credit": "Archivio Luce, https://patrimonio.archivioluce.com/luce-web/detail/IL5000018624/2/-191354.html"
+            },
+            "start_date": {
+                "year": "1935",
+                "month": "10",
+                "day": "2"
+            },
+            "text": {
+                "headline": "The Justification for Invasion",
+                "text": "<p>In his speech announcing the invasion of Ethiopia in 1935, Mussolini justified the invasion on the basis of Italian superiority: <blockquote>A people of heroes, of saints, of poets, of artists, of navigators, of colonizers, of transmigrators</blockquote></p><p>How does this declaration connect with the Palazzo della Civiltà Italiana, the contested cultural object that will be discussed?</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/palazzo_in_costruzione.jpg",
+                "caption": "Construction begins on the Palazzo della Civiltà Italiana",
+                "credit": "By Sentruper - File:E42 in costruzione.jpg on it.wiki. Originally appeared on the cover of the Italian magazine Oggi in 1940, Public Domain, https://commons.wikimedia.org/w/index.php?curid=22809909"
             },
             "start_date": {
                 "year": "1938"
             },
             "text": {
-                "headline": "Construction and Fascist Intentions",
-                "text": "<p>Initiated as a symbol of Fascist ideology, the Palazzo della Civiltà Italiana was designed to showcase the power and modernity of Mussolini's Italy</p>"
+                "headline": "Inception of the Palazzo della Civiltà Italiana",
+                "text": "<p>The <strong>Palazzo della Civiltà Italiana</strong>, also known as the <strong>Colosseo Quadrato</strong> (Square Colosseum), was designed by architects <strong>Giovanni Guerrini, Ernesto Lapadula</strong>, and <strong>Mario Romano</strong> in May 1938. The concept was later refined by <strong>Marcello Piacentini</strong>, the supervisor and planner of the EUR project, which was aimed to celebrate Italy's imperial grandeur for the 1942 World Exposition, marking the 20th anniversary of the Fascist march on Rome.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/Modello_palazzo_della_Civiltà_italiana_Museo_scienza_e_tecnologia_Milano.jpg",
+                "caption": "Construction begins on the Palazzo della Civiltà Italiana",
+                "credit": "CC BY-SA 4.0 | 2012 | Alessandro Nassiri | Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci, Milano | https://it.m.wikipedia.org/wiki/File:Modello_palazzo_della_Civilt%C3%A0_italiana_Museo_scienza_e_tecnologia_Milano.jpg"
+            },
+            "start_date": {
+                "year": "1938"
+            },
+            "end_date": {
+                "year": "1942"
+            },
+            "text": {
+                "headline": "Construction and Symbolism",
+                "text": "<p>The <strong>Palazzo della Civiltà Italiana</strong> was built in a span from 1938 to 1942 amidst the outbreak of <strong>World War II</strong>. Although it was <strong>inaugurated in 1940</strong>, the Universal Exhibition it was built for never took place.</p><p>The building's architecture, with its 216 round arches and the inclusion of 28 neoclassical statues, not only draws from <strong>Roman architectural heritage</strong> but also signifies the fascist regime's ambitions and Mussolini's personal symbolism through its measurements and artistic details. These aspects highlight the fascists' desire to link their regime to the glory of ancient Rome.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/Iscrizione_italiani_popolo_di_poeti.jpeg",
+                "caption": "Inscription atop the facade of the Palazzo della Civiltà Italiana, encapsulating Mussolini's vision of the Italian people as 'a nation of poets, artists, heroes, saints, thinkers, scientists, sailors, emigrants'",
+                "credit": "Photo by Reame, March 4, 2013, via Wikimedia Commons, under Creative Commons Attribution 2.0 Generic (CC BY 2.0) license. https://it.m.wikipedia.org/wiki/File:Iscrizione_italiani_popolo_di_poeti.JPG"
+            },
+            "start_date": {
+                "year": "1938",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "The Spiritual Center of EUR",
+                "text": "<p>The <strong>Palazzo della Civiltà Italiana</strong>, intended as the EUR district's spiritual center, embodies 'the genius of the Italian race under Fascism,' marked by Mussolini's 1935 inscription: '<strong>a people of poets, artists, heroes, saints, thinkers, scientists, navigators, transmigrators.</strong>' This highlights Italian prowess and justifies the <strong>invasion of Ethiopia</strong>, linking the Palazzo to fascist expansion and Africa's new fascist empire.</p><p>The war aimed at reviving the Roman Empire and addressing <strong>overpopulation and unemployment</strong> with <strong>African agricultural colonies</strong>. These actions, reflecting fascist values of aggression, resulted in war crimes charges, framing the Palazzo as a <strong>symbol of fascist aggression</strong>.</p>"
+            }
+        },        
+        {
+            "media": {
+                "url": "assets/images/Palazzo_della_Civiltà_Italiana_04.jpg",
+                "caption": "Palazzo della Civiltà Italiana",
+                "credit": "CC BY-SA 4.0 | 2016 | Nicholas Gemini | https://commons.wikimedia.org/wiki/File:Palazzo_della_Civilt%C3%A0_Italiana_04.jpg"
+            },
+            "start_date": {
+                "year": "1940"
+            },
+            "text": {
+                "headline": "Mostra della Civiltà Italiana",
+                "text": "<p>The <strong>Mostra della Civiltà Italiana</strong> was intended to be the centerpiece exhibition of the EUR, illustrating the historical evolution of Italy <strong>from ancient times to the Fascist era</strong>.</p><p>The exhibition's design, descending from pre-Roman and Roman civilization to a climax with the 'Mussolinian Room,' aimed to glorify the Duce and the regime's 'severely Roman and modern' character.</p><p>This setup underscores the use of art and architecture as tools for disseminating fascist ideology and values.</p>"
             }
         },
         {
             "media": {
                 "url": "",
-                "caption": "Post-WWII view of the Palazzo",
+                "caption": "",
                 "credit": ""
             },
             "start_date": {
-                "year": "1945"
+                "year": "1943",
+                "month": "",
+                "day": ""
+            },
+            "end_date": {
+                "year": "1945",
+                "month": "",
+                "day": ""
             },
             "text": {
-                "headline": "Post-War Controversy",
-                "text": "<p>After the fall of the Fascist regime, the Palazzo's significance was questioned, embodying a complex legacy of architectural beauty and ideological burden</p>"
+                "headline": "Occupation and Aftermath",
+                "text": "<p>In late 1943, the <strong>Palazzo della Civiltà Italiana</strong> was occupied by German troops, followed by the Allies after the liberation of Rome in June 1944.</p><p>Post-liberation, the building was left <strong>abandoned and vandalized</strong>, with parts of its statute scattered.</p><p>By September 1945, after the Allies left, approximately <strong>10,000 displaced persons</strong>, homeless from the war, sought refuge within its premises.</p>"
             }
         },
         {
             "media": {
                 "url": "",
-                "caption": "Fendi's acquisition of the Palazzo",
+                "caption": "",
                 "credit": ""
             },
             "start_date": {
-                "year": "2015"
+                "year": "1957",
+                "month": "",
+                "day": ""
+            },
+            "end_date": {
+                "year": "1962",
+                "month": "",
+                "day": ""
             },
             "text": {
-                "headline": "Modern Reappropriation by Fendi",
-                "text": "<p>The luxury fashion brand Fendi moves its headquarters to the Palazzo, sparking debate over the commercial use of historically charged architecture</p>"
+                "headline": "Post-War Redevelopment",
+                "text": "<p>In the late 1950s and early 1960s, the <strong>Palazzo della Civiltà Italiana</strong> saw redevelopment, transforming into a hub for government administration within the EUR district. This period marked the relocation of <strong>four ministries</strong> between 1957 and 1962.</p><p>The <strong>Christian Democrats</strong> established their headquarters at Palazzo Sturzo nearby in 1958, and the <strong>Archivio Centrale dello Stato</strong> moved to EUR in 1960.</p><p>The 1960 Olympics catalyzed further development, introducing new sports facilities like the <strong>Palazzo dello Sport</strong> and the <strong>Velodromo Olimpico</strong> to the area.</p>"
             }
         },
         {
             "media": {
-                "url": "",
-                "caption": "Public debate and discussions",
+                "url": "assets/video/rossellini.mp4",
+                "caption": "Highlights from 'Roma città aperta' by Roberto Rossellini and 'La Signora delle Camelie' by Michelangelo Antonioni, showcasing the Palazzo della Civiltà Italiana as a key backdrop, illustrating its iconic status in Italian cinema",
                 "credit": ""
             },
             "start_date": {
-                "year": "2023"
+                "year": "1962",
+                "month": "",
+                "day": ""
+            },
+            "end_date": {
+                "year": "1971",
+                "month": "",
+                "day": ""
             },
             "text": {
-                "headline": "Contemporary Perspectives",
-                "text": "<p>Current views on the Palazzo illustrate a spectrum of interpretations, from those who see it as a monument to be preserved to others who view it as a symbol of oppression to be critically re-evaluated</p>"
+                "headline": "A Cinematic Icon",
+                "text": "<p>The <strong>Palazzo della Civiltà Italiana</strong> has been a captivating setting for various films, highlighting its architectural beauty and historical significance.</p><p>It featured in <strong>Federico Fellini</strong>'s 'Le tentazioni del Dottor Antonio' from 'Boccaccio '70' (1962), <strong>Julie Taymor</strong>'s 'Titus' (1999), and other significant works such as 'Roma città aperta' by <strong>Roberto Rossellini</strong> (1945), '8 ½' by Federico Fellini (1963), 'La Signora delle Camelie' by <strong>Michelangelo Antonioni</strong> (1971), showcasing the Palazzo's versatility and appeal as a film location over the decades.</p>"
             }
-        }
+        },
+        {
+            "media": {
+                "url": "assets/images/02_fendi-roma_the-artisans-of-dreams_essentials-room-1000x550.jpg",
+                "caption": "Exhibition at Palazzo della Civiltà Italiana celebrating Fendi's artisanal heritage. https://www.lvmh.it/notizie-documenti/notizie/la-mostra-fendi-roma-rende-omaggio-alleccellenza-artigiana/",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2013",
+                "month": "7",
+                "day": ""
+            },
+            "text": {
+                "headline": "Fendi's New Headquarters",
+                "text": "<p>In July 2013, <strong>Fendi</strong> announced its move to rent the <strong>Palazzo della Civiltà Italiana</strong> as its new <strong>international headquarters</strong>. This decision reflects the broader context of private companies, especially from the design and fashion sectors, stepping in to sponsor the maintenance of Italy's architectural heritage due to the <strong>government's financial constraints</strong>.</p><p><strong>UNESCO</strong> does not sponsor the site as it is not part of the World Heritage of Humanity. Therefore, the Italian government is responsible for its upkeep, navigating the complexities of Italian law regarding cultural heritage. This situation underscores the significance of private sponsorship in preserving Italy's historical sites.</p><p>Originally designed to house a fascist exhibition, Fendi has repurposed the ground floor as an exhibition area, while the upper floors are utilized as office spaces. This adaptation showcases a modern reinterpretation of the building's historical and cultural significance.</p>"
+            }
+        }       
     ]
 }
