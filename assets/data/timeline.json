@@ -278,6 +278,38 @@
                 "headline": "Daily Mail: Mussolini's EUR as G20 Host",
                 "text": "<p><em>Daily Mail</em> reports on the <strong>G20 summit</strong> held in the EUR district. With coverage by <strong>Lauren Lewis</strong>, the summit served as President Joe Biden's platform post-Afghanistan withdrawal. Amid EUR's grandiose fascist architecture, world leaders discussed pressing global issues in a setting that's both a relic of Mussolini's regime and a modern venue. The article underscores the dichotomy of holding a summit promoting 'Peace, People, Prosperity' in a location symbolizing Italy's fascist era.</p><p><a href='https://www.dailymail.co.uk/news/article-10140229/Mussolinis-monument-fascism-host-G20-summit-Joe-Biden-face-world-leaders.html'>Read more on Daily Mail</a></p>"
             }
-        }
+        },
+        {
+            "media": {
+                "url": "/assets/images/luoghifascismo.png",
+                "caption": "Homepage of the Places of Fascism project site",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "11",
+                "day": "23"
+            },
+            "text": {
+                "headline": "Luoghi del Fascismo: Mapping Italy's Fascist Landmarks",
+                "text": "<p>The <strong>Luoghi del Fascismo</strong> project, spearheaded by the <strong>Istituto Ferruccio Parri</strong>, introduces an online map showcasing Italy's fascist-era remnants, including the <strong>Palazzo della Civiltà Italiana</strong>. Aimed at documenting and exploring how memories of Benito Mussolini's regime are preserved, the initiative sheds light on various landmarks across Italy.</p><p>Coordinated by historian <strong>Giulia Albanese</strong>, the project maps out fascist landmarks, revealing a surge in commemorations since the 1990s. This interactive platform encourages public engagement, inviting users to contribute unlisted sites for potential inclusion.</p><p>For more information, visit <a href='https://www.luoghifascismo.it/'>www.luoghifascismo.it</a>.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2024",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Reflecting on the Legacy",
+                "text": "<p>The <strong>Palazzo della Civiltà Italiana</strong> embodies a complex heritage, from its origins in Fascism to its modern role. Its history prompts a crucial dialogue on <strong>dissonant heritage</strong> and <strong>counter-heritage practices</strong>.</p><p>Engaging with these 'blind spots' is essential for promoting better heritage practices, encouraging a more inclusive discourse that acknowledges the Palazzo's multifaceted legacy.</p><p>Although no definitive solution exists yet, the increasing discussion around such monuments signifies a growing awareness of Italy's contested past and the importance of confronting these challenges head-on.</p>"
+            }
+        }        
     ]
 }
