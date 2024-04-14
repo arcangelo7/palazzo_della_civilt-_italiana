@@ -185,22 +185,6 @@
         },
         {
             "media": {
-                "url": "",
-                "caption": "",
-                "credit": ""
-            },
-            "start_date": {
-                "year": "2013",
-                "month": "",
-                "day": ""
-            },
-            "text": {
-                "headline": "Comparative Fascist Legacy in Italy and Germany",
-                "text": "<p>Unlike Germany's denazification, Italy lacked a similar reeducation process. Laws against <strong>'Apologia di Fascismo'</strong> exist but are rarely enforced, exemplified by the annual pilgrimage to Mussolini’s mausoleum, showing the legal and societal ambivalence towards fascist symbols.</p><p>Italy's association with <strong>right-wing politics</strong> includes the election of <strong>Silvio Berlusconi</strong> and the neo-Fascist party's rise to power in 1994. Mussolini's use of symbols to engrain Fascist ideology contrasts with current right-wing movements, noting <strong>Giorgia Meloni</strong>'s political background and her party's symbolism.</p><p>The <strong>1953 Scelba Law</strong> aimed to prevent the reestablishment of the Fascist Party, yet remained vague on the preservation of fascist-era remnants. The rise of <strong>historical revisionism</strong> and 'uncritical conservation' has reintegrated fascist-era artworks and monuments into the urban landscape without contextualizing their origins, normalizing Fascism within national history.</p>"
-            }
-        },
-        {
-            "media": {
                 "url": "assets/images/4491.avif",
                 "caption": "The Palazzo della Civiltà Italiana",
                 "credit": "Photograph: Alberto Pizzoli/AFP/Getty Images"
@@ -279,6 +263,54 @@
                 "text": "<p><em>Daily Mail</em> reports on the <strong>G20 summit</strong> held in the EUR district. With coverage by <strong>Lauren Lewis</strong>, the summit served as President Joe Biden's platform post-Afghanistan withdrawal. Amid EUR's grandiose fascist architecture, world leaders discussed pressing global issues in a setting that's both a relic of Mussolini's regime and a modern venue. The article underscores the dichotomy of holding a summit promoting 'Peace, People, Prosperity' in a location symbolizing Italy's fascist era.</p><p><a href='https://www.dailymail.co.uk/news/article-10140229/Mussolinis-monument-fascism-host-G20-summit-Joe-Biden-face-world-leaders.html'>Read more on Daily Mail</a></p>"
             }
         },
+        {
+            "media": {
+                "url": "assets/images/Italian_empire_1940.webp",
+                "caption": "The Italian Colonial Empire",
+                "credit": "https://www.newworldencyclopedia.org/entry/Italian_Empire"
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "",
+                "day": ""
+                },            
+            "text": {
+                "headline": "Challenges of Italy's Postcolonial Heritage",
+                "text": "<p>Italy's postcolonial challenges differ markedly from other European countries like France or Britain. Key aspects include:</p><ul><li><strong>Colonial Timeline:</strong> Italy's colonies in regions like Ethiopia and Libya did not achieve independence simultaneously, with official decolonization starting only in 1947.</li><li><strong>Sustained Relations:</strong> Post-WWII, Italy continued colonial-like relations, notably administering Somalia until 1960 and maintaining economic ties with Libya until 1970.</li><li><strong>Immigration:</strong> Unlike Britain and France, Italy saw little immigration from former colonies, reinforcing its perception as a homogeneous nation.</li><li><strong>Historical Overlook:</strong> Italy has largely ignored the violent parts of its colonial past, a trend described by historian Angelo Del Boca as 'silencing' of colonial atrocities.</li></ul><p>This complex legacy affects interpretations of sites like the Palazzo della Civiltà Italiana, reflecting its contested origins and current rebranding.</p>"
+            }
+        },   
+        {
+            "media": {
+                "url": "assets/images/Denazification-street.jpg",
+                "caption": "Workers removing the signage from a former 'Adolf Hitler-Straße' (today 'Steinbrückstraße') in Trier, May 12, 1945",
+                "credit": "<a href='http://www.army.mil/CMH/books/wwii/Occ-GY/ch15.htm' target='_blank'>THE U.S. ARMY IN THE OCCUPATION OF GERMANY, 1944–1946</a>"
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Italy vs. Germany Post-War Reeducation Efforts",
+                "text": "<p>Italy's approach to post-WWII reeducation differed significantly from Germany's strict denazification. Key differences include:</p><ul><li><strong>Germany's Denazification:</strong> Laws in 1949 banned Nazi symbols and targeted apologists.</li><li><strong>Italy's Approach:</strong> Post-1943, many fascist symbols remained. The Allies suggested removing only overt symbols like Mussolini's busts, but many artifacts were left intact.</li><li><strong>Local Measures:</strong> Due to limited resources and lack of directive, Italian authorities removed only some symbols, such as Roman eagles and the Fascio Littorio.</li><li><strong>Political Continuities:</strong> Italy later saw the rise of neo-Fascist parties in mainstream politics, notably during Silvio Berlusconi’s tenure starting in 1994.</li></ul><p>This illustrates the varied impact of cultural heritage and political ideology on national memory and public spaces in post-war Europe.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "assets/images/Preview-tour-1536x757.jpeg",
+                "caption": "Self-guided tour 'Uncovering Italian Colonial Pasts: Florence'",
+                "credit": "https://postcolonialitaly.com/postcolonial-italy-launches-its-self-guided-tour/"
+            },
+            "start_date": {
+                "year": "2022",
+                "month": "",
+                "day": ""
+            },
+            "text": {
+                "headline": "Highlighting Italy's Colonial and Fascist Heritage",
+                "text": "<p>The 2021 'Postcolonial Italy' initiative exposes Italy's colonial past through interactive maps and discussions. Key aspects include:</p><ul><li><strong>Visibility and Debate:</strong> The initiative uses maps to visualize Italian colonialism's remnants, fostering public debate.</li><li><strong>Self-Guided Tours:</strong> The project offered a free walking tour in Florence during Black History Month, revealing lesser-known Italian historical narratives.</li><li><strong>Broader Reach:</strong> Expanded to include cities like Venice and Rome, the project draws interest from researchers and the public.</li></ul><p>Additionally, 'Postcolonial Italy' supports 'I luoghi del fascismo', documenting fascist-era sites and their commemoration trends since the 1990s, providing insight into Italy's complex historical identity.</p><p>For more information, visit <a href='https://www.luoghifascismo.it/'>www.luoghifascismo.it</a>.</p>"
+            }
+        },                    
         {
             "media": {
                 "url": "assets/images/luoghifascismo.png",
